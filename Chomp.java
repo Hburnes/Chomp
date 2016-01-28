@@ -9,7 +9,7 @@ import java.util.*;
 
 public class Chomp extends Applet implements ActionListener
 {
-   public int test=0;
+   
    public Rectangle mouserec;
    public Board[] allboards;
    public Board[] losers;
